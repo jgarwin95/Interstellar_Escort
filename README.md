@@ -4,7 +4,7 @@
 The year is 2024, and the world is in shambles (It happend fast... I know). President Donald Trump has somehow managed to push through
 congress a new law stating that there are no term limits to his presidency and in addition, he is to be referred to as "The-bestest-emperor-overlord" Trump for the rest of eternity. 
 
-Thankfully, Elon Musk's Occupy Mars mission has been gaining steam in recent years and is ready to tackle this monumental task; relocate all of humanity to a Trumpless plant. There is just one remaining problem... the Mothership carrying all of humanity across the solar system is in dire need of protection from the dangerous asteroid clusters which it is sure to encounter. Elon knows that there is only one person capable of pulling off such a dangerous mission. It's you! Will you accept you mission to help relocate humanity and navigate the Mothership across the solar system? 
+Thankfully, Elon Musk's Occupy Mars mission has been gaining steam in recent years and is ready to tackle this monumental task; relocate all of humanity to a Trumpless plant. There is just one remaining problem... the Mothership carrying all of humanity across the solar system is in dire need of protection from the dangerous asteroid clusters which it is sure to encounter. Elon knows that there is only one person capable of pulling off such a dangerous mission. It's you! Will you accept your mission to help relocate humanity and navigate the Mothership across the solar system? 
 
 ---
 ## About - version 1.0.0
@@ -13,9 +13,7 @@ Interstellar Escort is a 2D 3rd person shooter game where the objective is to de
 
 ---
 ## Demo
-<img src="interstellar_screenshots\\Capture1.PNG" alt="drawing" width="320"/>
-
-![photo](interstellar_screenshots/demo_gif.gif)
+<img src="interstellar_screenshots\\Capture1.PNG" alt="drawing" width="320"/> ![photo](interstellar_screenshots/demo_gif.gif)
 
 ---
 ## How-To-Play
