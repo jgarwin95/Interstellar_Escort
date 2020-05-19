@@ -50,7 +50,7 @@ And that's it! Stunningly easy, I know ;)
 #### This version
 This is the first version of Interstellar Escort. It has currently been debugged to the point where it is a functioning game and shouldn't throw any unexpected errors at the user. There are however some minor flaws in the gameplay which I aim to address in future versions. These include:
 
-* Escalating difficulty: As the game is currently configured, the difficulty setting is not dynamic and remains steady throughout the gameplay. In a future version there will be the addition of discreet levels thats have an increasing level of difficulty.
+* Escalating difficulty: As the game is currently configured, the difficulty setting is not dynamic and remains steady throughout the gameplay. In a future version there will be the addition of discrete levels thats have an increasing difficulty.
 * Enhanced pseudo-randomness: The asteroids are generated using a pseudo random number generator to produce an asteroid every X amount of game loops. This randomness occasionally will allow for lulls in game action and you could theoretically go seconds without seeing an asteroid.
 * Increased specificity of powerup drops: Current powerup spawning is slightly off to where a powerup might be generated when the user isn't in real need of one.
 * Increase repertoire of powerups, spaceships, weapons, and enemys
