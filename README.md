@@ -13,7 +13,8 @@ Interstellar Escort is a 2D 3rd person shooter game where the objective is to de
 
 ---
 ## Demo
-<img src="interstellar_screenshots\\Capture1.PNG" alt="drawing" width="320"/> ![photo](interstellar_screenshots\\demo_gif.gif)
+<img src="interstellar_screenshots\\Capture1.PNG" alt="drawing" width="320"/> 
+![photo](interstellar_screenshots\\demo_gif.gif)
 
 ---
 ## How-To-Play
@@ -42,6 +43,7 @@ This highly complex game is not for the feable-minded. So tred carefully while g
 |--------|-----|
 | move right | right arrow key |
 | move left | left arrow key |
+
 And that's it! Stunningly easy, I know ;)
 
 ---
