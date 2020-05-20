@@ -1,10 +1,9 @@
 # Interstellar_Escort
  ---
 ## Game Intro
-The year is 2024, and the world is in shambles (It happend fast... I know). President Donald Trump has somehow managed to push through
-congress a new law stating that there are no term limits to his presidency and in addition, he is to be referred to as "The-bestest-emperor-overlord" Trump for the rest of eternity. 
+The year is 2024, and due to unforseen events the world is now uninhabitable (it happended fast... I know). 
 
-Thankfully, Elon Musk's Occupy Mars mission has been gaining steam in recent years and is ready to tackle this monumental task; relocate all of humanity to a Trumpless plant. There is just one remaining problem... the Mothership carrying all of humanity across the solar system is in dire need of protection from the dangerous asteroid clusters which it is sure to encounter. Elon knows that there is only one person capable of pulling off such a dangerous mission. It's you! Will you accept your mission to help relocate humanity and navigate the Mothership across the solar system? 
+Thankfully, Elon Musk's Occupy Mars mission has been gaining steam in recent years and is ready to tackle this monumental task; relocate all of humanity to a new planet. There is just one remaining problem... the Mothership carrying all of humanity across the solar system is in dire need of protection from the dangerous asteroid clusters which it is sure to encounter. Elon knows that there is only one person capable of pulling off such a dangerous mission. It's you! Will you accept your mission to help relocate humanity and navigate the Mothership across the solar system? 
 
 ---
 ## About - version 1.0.0
